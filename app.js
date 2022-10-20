@@ -5,7 +5,7 @@ const del = require('./del')
 const update = require('./update')
 
 const data = process.argv
-//write(data)
+
 
 var note = {}
 
