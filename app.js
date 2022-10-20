@@ -6,7 +6,6 @@ const update = require('./update')
 
 const data = process.argv
 
-
 var note = {}
 
 if(data[2] == 'add') {
